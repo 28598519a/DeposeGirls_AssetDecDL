@@ -8,7 +8,7 @@
 以前Web好像是Cocos2d-JS的樣子，現在也改成Unity了，弄起來方便多了，至於Android選項的話，沒特別需求就不用下了
 
 ## Sample
-<img width="1658" height="311" alt="image" src="https://github.com/user-attachments/assets/09c0fc33-4758-4098-adfb-3794d0d0d760" />
+<img width="1608" height="275" alt="image" src="https://github.com/user-attachments/assets/b7e4bd5c-aac6-4cdb-b91b-8a507bb68cdc" />
 
 ## Rrequriement
 Visual Studio C# 2026
